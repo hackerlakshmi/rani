@@ -1,7 +1,9 @@
 accept the pull request !!
 
 1)new repository for SODA Strato
+
 Issue/Feature Description:
+
 Create a new repository for SODA Strato UI using the current code base of the SODA Dashboard and remove all the code that is not required for the SODA Strato (Terra, Delfin and Orchestration.)
 
 Why this issue to fixed / feature is needed(give scenarios or use cases):
